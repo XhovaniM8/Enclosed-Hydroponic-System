@@ -1,4 +1,4 @@
-# 🌱 Enclosed Automated Hydroponic System
+# Enclosed Automated Hydroponic System
 
 **EET 452W Senior Project — Spring 2022**  
 **Farmingdale State College, Department of Electrical Engineering**  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Overview
+## Overview
 
 This project presents a **cost-effective, enclosed hydroponic system** designed for growing plants without soil, using an automated, Arduino-driven control loop. The system monitors and regulates water levels, pH, humidity, temperature, and lighting, creating an optimal environment for various crops.
 
@@ -14,19 +14,19 @@ The project draws from real-world agricultural needs, embedded systems design, a
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🌿 **Soilless Cultivation** using nutrient-rich water.
-- 💡 **Timed LED Growth Lighting**
-- 🧪 **Sensor Integration**: pH, moisture, TDS, temperature.
-- ⚙️ **Fully Automated Control Loop** via Arduino.
-- 💾 **Customizable Plant Profiles** stored for dynamic control.
-- 🔌 **Single Power Supply Design** using relays and MOSFETs.
-- 📊 **Real-Time Data Logging** through USB and Excel.
+- **Soilless Cultivation** using nutrient-rich water.
+- **Timed LED Growth Lighting**
+- **Sensor Integration**: pH, moisture, TDS, temperature.
+- **Fully Automated Control Loop** via Arduino.
+- **Customizable Plant Profiles** stored for dynamic control.
+- **Single Power Supply Design** using relays and MOSFETs.
+- **Real-Time Data Logging** through USB and Excel.
 
 ---
 
-## 🧩 System Components
+## System Components
 
 | Component                  | Description                                        |
 |---------------------------|----------------------------------------------------|
@@ -43,7 +43,7 @@ The project draws from real-world agricultural needs, embedded systems design, a
 
 ---
 
-## 🔧 Architecture
+## Architecture
 
 The system follows a **closed-loop feedback control model**:
 1. **Sensors** collect environmental data.
@@ -56,7 +56,7 @@ The system follows a **closed-loop feedback control model**:
 
 ---
 
-## 📊 Testing & Results
+## Testing & Results
 
 - Sensor calibration verified via Excel data logging.
 - System successfully pumped water based on moisture/pH conditions.
@@ -65,7 +65,7 @@ The system follows a **closed-loop feedback control model**:
 ---
 
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Wi-Fi or BLE connectivity for mobile monitoring.
 - User-friendly UI for parameter tuning.
@@ -74,7 +74,7 @@ The system follows a **closed-loop feedback control model**:
 
 ---
 
-## 🧠 Lessons Learned
+## Lessons Learned
 
 - Systems integration under constraints.
 - Debugging signal errors in real hardware.
@@ -83,7 +83,7 @@ The system follows a **closed-loop feedback control model**:
 
 ---
 
-## 📎 References
+## References
 
 - [Hydroponic Market Report (MarketsAndMarkets)](https://www.marketsandmarkets.com/Market-Reports/hydroponic-market-94055021.html)
 - [Benefits of Hydroponics](https://greenourplanet.org/hydroponics/benefits-of-hydroponics/)
@@ -91,6 +91,6 @@ The system follows a **closed-loop feedback control model**:
 
 ---
 
-## 📬 Contact
+## Contact
 
 Created by [Xhovani Mali](https://www.linkedin.com/in/xhovanimali) — always open to chat about embedded systems
